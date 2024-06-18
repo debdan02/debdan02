@@ -1,6 +1,6 @@
 -  Hello (World?), I’m @debdan02
 -  I’m interested in Competetive Programming, Math, Physics... lotsa things
--  I’m currently learning Shakespeare😢... also CP : )
+-  I’m currently learning Shakespeare😢... also Competetive Programming : )
 -  // I’m looking to collaborate on
 -  // How to reach me
 
